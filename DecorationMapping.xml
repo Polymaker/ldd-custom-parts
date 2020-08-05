@@ -2086,7 +2086,8 @@
 	<Mapping decorationID="99828" designID="3816" surfaceID="1"/>
 	<Mapping decorationID="99829" designID="3817" surfaceID="1"/>
 	<Mapping decorationID="99853" designID="98723" surfaceID="1"/>
-        <Mapping decorationID="54580" designID="26678" surfaceID="1"/>
+    
+	<Mapping decorationID="54580" designID="26678" surfaceID="1"/>
 	<Mapping decorationID="54581" designID="26678" surfaceID="1"/>
 	<Mapping decorationID="11111" designID="26051" surfaceID="1"/>
 	<Mapping decorationID="11112" designID="26051" surfaceID="2"/>
@@ -2122,4 +2123,9 @@
 	<Mapping decorationID="6152814" designID="85984" surfaceID="1"/>
 	<Mapping decorationID="6115442" designID="14769" surfaceID="1"/>
 	<Mapping decorationID="6175184" designID="3068" surfaceID="1"/>
+	
+	<!-- 75252-1 Stickers -->
+	<Mapping decorationID="75252001" designID="90498" surfaceID="1"/>
+	<!-- <Mapping decorationID="75252002" designID="XXXXX" surfaceID="1"/> -->
+	
 </DecorationMapping>
