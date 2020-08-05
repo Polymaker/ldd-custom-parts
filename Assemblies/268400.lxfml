@@ -37,5 +37,20 @@ Created for LDD by Equilibrium
 				<Bone refID="4" transformation="1,0,0,0,1,0,0,0,1,-0.4,5.48,0.4" freeze="no"/>
 			</Part>
 		</Brick>
+		<Brick refID="5" designID="2688" uuid="da9c7168-2383-4352-9834-4da92b91e064">
+			<Part refID="5" designID="2688" materials="21">
+				<Bone refID="5" transformation="1,0,0,0,1,0,0,0,1,0,0.44,1.56" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="6" designID="2688" uuid="ba1c7268-2384-4352-9834-4da92c91e074">
+			<Part refID="6" designID="2688" materials="21">
+				<Bone refID="6" transformation="1,0,0,0,1,0,0,0,1,0,0.44,-1.56" freeze="no"/>
+			</Part>
+		</Brick>
+		<Brick refID="7" designID="9075" uuid="bf1d7268-2384-4052-9134-4da92c91e074">
+			<Part refID="7" designID="9075" materials="21">
+				<Bone refID="7" transformation="1,0,0,0,1,0,0,0,1,-0.56,0.14,0.0" freeze="no"/>
+			</Part>
+		</Brick>
 	</Bricks>
 </LXFML>

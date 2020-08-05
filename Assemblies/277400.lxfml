@@ -4,7 +4,7 @@ Created for LDD by Equilibrium
 -->
 <LXFML versionMajor="5" versionMinor="0">
 	<Meta>
-		<Annotation aliases="277400"/>
+		<Annotation aliases="277400;74013"/>
 		<Annotation designname="MONORAIL TRACK MONOSWITCH"/>
     <Annotation maingroupid="274"/>
     <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
