@@ -2,13 +2,18 @@
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="49307" />
-    <Annotation designname="Brick, Modified 1 x 1 x 2/3 No Studs, Curved Top" />
+    <Annotation designname="PLATE 1x1x2/3 DOUBLE CURVED" />
     <Annotation maingroupid="207" />
     <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
     <Annotation platformid="200" />
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.39" sZ="0.12" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.12" tz="0" />
+    <Box sX="0.39" sY="0.3" sZ="0.1" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.3368" tz="0" />
+    <Box sX="0.39" sY="0.2" sZ="0.078" angle="180" ax="0" ay="0.7071" az="-0.7071" tx="0" ty="0.5032" tz="0" />
+  </Collision>
   <Connectivity>
     <Custom2DField type="22" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="-0.4">
       22:1:1,22:2:1,22:1:1,
@@ -16,6 +21,7 @@
       22:1:1,22:2:1,22:1:1
     </Custom2DField>
   </Connectivity>
+  <PhysicsAttributes inertiaTensor="0,0,0,0,0,0,0,0,0" centerOfMass="0,0.32,0" mass="1" frictionType="0" />
   <Bounding>
     <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.64" maxZ="0.4" />
   </Bounding>
