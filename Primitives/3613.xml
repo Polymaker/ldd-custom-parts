@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="3613" />
@@ -9,9 +9,9 @@
     <Annotation platformname="SYSTEM" />
     <Annotation version="1" />
   </Annotations>
- <Connectivity>
-    <Hinge type="172" oriented="0" angle="0" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="0.4" tz="0"/>
-    <Ball type="2" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0.8" ty="0.4" tz="0"/>
+  <Connectivity>
+    <Hinge type="172" oriented="0" angle="0" ax="1" ay="0" az="0" tx="0" ty="0.4" tz="0" />
+    <Ball type="2" angle="120" ax="-0.5774" ay="0.5774" az="-0.5774" tx="0.8" ty="0.4" tz="0" />
   </Connectivity>
   <Bounding>
     <AABB minX="-0.40001" minY="0" minZ="-0.4" maxX="1.038451" maxY="0.8" maxZ="0.4" />

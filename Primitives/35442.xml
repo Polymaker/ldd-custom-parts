@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="35442" />
-    <Annotation designname="Gear Wheel 2X2, Z6" />
+    <Annotation designname="GEAR WHEEL 2X2, Z6" />
     <Annotation maingroupid="286" />
     <Annotation maingroupname="FUNCTIONAL ELEMENTS" />
     <Annotation platformid="200" />
@@ -24,12 +24,12 @@
       22:2:1,15:4,23:4:1,15:4,22:2:1,
       29:0:1,22:2:1,22:2:1,22:2:1,29:0:1,
     </Custom2DField>
-    <Hinge type="69" oriented="1" angle="0" ax="0" ay="0" az="1" tx="-0.4" ty="0.26" tz="-0.4"/>
+    <Hinge type="69" oriented="1" angle="0" ax="0" ay="0" az="1" tx="-0.4" ty="0.26" tz="-1.2"/>
   </Connectivity>
   <Bounding>
-    <AABB minX="-1.736678" minY="-0.001095" minZ="-1.9" maxX="0.936679" maxY="0.48" maxZ="1.1" />
+    <AABB minX="-1.73667800426483" minY="-1.20000004244503E-05" minZ="-1.89999997615814" maxX="0.936679005622864" maxY="0.479999989271164" maxZ="1.10000002384186" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.736678" minY="-0.001095" minZ="-1.9" maxX="0.936679" maxY="0.48" maxZ="1.1" />
+    <AABB minX="-1.73667800426483" minY="-1.20000004244503E-05" minZ="-1.89999997615814" maxX="0.936679005622864" maxY="0.479999989271164" maxZ="1.10000002384186" />
   </GeometryBounding>
 </LEGOPrimitive>

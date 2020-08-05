@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="42918" />
-    <Annotation designname="Slope Brick Curved 8 x 2" />
+    <Annotation designname="BRICK 2X8,OUTSIDE BOW,W/ CUT OUT,NO. 1" />
     <Annotation maingroupid="207" />
     <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES" />
     <Annotation platformid="200" />

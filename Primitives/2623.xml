@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="2623" />
@@ -46,9 +46,9 @@
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-4.400428" minY="0" minZ="-3.6" maxX="3.600428" maxY="0.96" maxZ="2.8" />
+    <AABB minX="-4.40000009536743" minY="0" minZ="-3.59999990463257" maxX="3.59999990463257" maxY="0.959999978542328" maxZ="2.79999995231628" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-4.400428" minY="0" minZ="-3.6" maxX="3.600428" maxY="0.96" maxZ="2.8" />
+    <AABB minX="-4.40000009536743" minY="0" minZ="-3.59999990463257" maxX="3.59999990463257" maxY="0.959999978542328" maxZ="2.79999995231628" />
   </GeometryBounding>
 </LEGOPrimitive>

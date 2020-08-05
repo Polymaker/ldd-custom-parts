@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="42716" />
@@ -33,10 +33,9 @@
     <Box sX="0.392917" sY="0.129695" sZ="0.993661" angle="14.99998" ax="0" ay="0" az="-1" tx="0.353061" ty="2.83516" tz="0"/>
   </Collision>
   <Connectivity>
-    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="1.52" tz="0"/>
-    <Fixed type="17" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.52" tz="0"/>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.5774" ay="-0.5774" az="-0.5774" tx="0" ty="1.52" tz="0" />
+    <Fixed type="17" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.52" tz="0" />
   </Connectivity>
-  <PhysicsAttributes inertiaTensor="4.00099,0,0,0,4.00682,0,0,0,5.48819" centerOfMass="-0.002351,-4.6E-005,-0.064818" mass="4.30000019073" frictionType="0"/>
   <Bounding>
     <AABB minX="-1.52" minY="0" minZ="-1" maxX="1.52" maxY="3.04" maxZ="1" />
   </Bounding>

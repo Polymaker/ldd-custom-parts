@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="39611" />
@@ -10,19 +10,19 @@
     <Annotation version="1" />
   </Annotations>
   <Connectivity>
-    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0" tz="-1.2">
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="1" ay="0" az="0" tx="-1.2" ty="0" tz="-1.2">
       29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
       29:0:1,23:4:1,23:4:1,23:4:1,29:0:1,
       29:0:1,23:4:1,7:4,23:4:1,29:0:1,
       29:0:1,23:4:1,23:4:1,23:4:1,29:0:1,
       29:0:1,29:0:1,29:0:1,29:0:1,29:0:1
     </Custom2DField>
-    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.8" ty="0.64" tz="-0.8">
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="1" ay="0" az="0" tx="-0.8" ty="0.64" tz="-0.8">
       29:0,29:0,29:0,
       29:0,3:4:36,29:0,
       29:0,29:0,29:0
     </Custom2DField>
-    <Axel type="6" length="0.16" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="0.64" tz="-0.4"/>
+    <Axel type="6" length="0.16" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="0.64" tz="-0.4" />
   </Connectivity>
   <Bounding>
     <AABB minX="-1.913945" minY="0" minZ="-1.98191" maxX="1.113945" maxY="0.8" maxZ="0.897786" />

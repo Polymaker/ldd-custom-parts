@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
-    <Annotation aliases="3671" />
+    <Annotation aliases="3671;367" />
     <Annotation designname="Baseplate 24 x 24 with Studs on Edges" />
     <Annotation maingroupid="218" />
     <Annotation maingroupname="BUILDING PLATES" />
@@ -63,9 +63,9 @@
     </Custom2DField>
   </Connectivity>
   <Bounding>
-    <AABB minX="-10" minY="0" minZ="-10" maxX="9.2" maxY="0.320001" maxZ="9.2" />
+    <AABB minX="-10" minY="0" minZ="-10" maxX="9.19999980926514" maxY="0.320001006126404" maxZ="9.19999980926514" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-10" minY="0" minZ="-10" maxX="9.2" maxY="0.320001" maxZ="9.2" />
+    <AABB minX="-10" minY="0" minZ="-10" maxX="9.19999980926514" maxY="0.320001006126404" maxZ="9.19999980926514" />
   </GeometryBounding>
 </LEGOPrimitive>

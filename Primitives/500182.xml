@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="500182" />
@@ -10,15 +10,15 @@
     <Annotation version="1" />
   </Annotations>
   <Connectivity>
-    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
-    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="75" ax="1" ay="0" az="0" tx="0" ty="1.07905" tz="0.574656"/>
-    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="0" angle="165" ax="1" ay="0" az="0" tx="0" ty="0.907492" tz="-0.838646"/>
-    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="0.16" ty="1.321364" tz="-0.414142">
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="1" ay="0" az="0" tx="0" ty="0" tz="0" />
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="1" angle="75" ax="1" ay="0" az="0" tx="0" ty="1.0264" tz="0.3922" />
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="0" angle="165" ax="1" ay="0" az="0" tx="0" ty="0.9116" tz="-0.8233" />
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="0.16" ty="1.3214" tz="-0.4">
       29:0:1,29:0:1,29:0:1,
       29:0:1,1:4:1,29:0:1,
       29:0:1,29:0:1,29:0:1
     </Custom2DField>
-    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="1" tx="-0.16" ty="0.521364" tz="-0.414142">
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="1" tx="-0.16" ty="0.5214" tz="-0.4">
       29:0:1,29:0:1,29:0:1,
       29:0:1,1:4:1,29:0:1,
       29:0:1,29:0:1,29:0:1

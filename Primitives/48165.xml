@@ -1,13 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!--
-Derived from The LDraw Parts Library
-Orginal Author: Magnus Forsberg [MagFors]
-Editted for LDD by Jester94
--->
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="48165" />
-    <Annotation designname="Wedge 3 x 3 Sloped Right" />
+    <Annotation designname="RIGHT ROOF TILE 3X3, DEG. 45/18/45" />
     <Annotation maingroupid="206" />
     <Annotation maingroupname="BRICKS WITH SLOPE, SPECIAL" />
     <Annotation platformid="200" />
