@@ -27,9 +27,9 @@
     <Hinge type="69" oriented="1" angle="0" ax="0" ay="0" az="1" tx="-0.4" ty="0.26" tz="-1.2"/>
   </Connectivity>
   <Bounding>
-    <AABB minX="-1.73667800426483" minY="-1.20000004244503E-05" minZ="-1.89999997615814" maxX="0.936679005622864" maxY="0.479999989271164" maxZ="1.10000002384186" />
+    <AABB minX="-1.73667800426483" minY="0" minZ="-2.7" maxX="0.936679005622864" maxY="0.48" maxZ="0.3" />
   </Bounding>
   <GeometryBounding>
-    <AABB minX="-1.73667800426483" minY="-1.20000004244503E-05" minZ="-1.89999997615814" maxX="0.936679005622864" maxY="0.479999989271164" maxZ="1.10000002384186" />
+    <AABB minX="-1.73667800426483" minY="0" minZ="-2.7" maxX="0.936679005622864" maxY="0.48" maxZ="0.3" />
   </GeometryBounding>
 </LEGOPrimitive>
